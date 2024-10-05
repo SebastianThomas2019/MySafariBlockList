@@ -1,4 +1,4 @@
-# My personal URL Blocking list.
+# My URL Blocking list.
 planningdesigned.com
 mydirtyhobby.de
 netguard.mobi
@@ -32,3 +32,8 @@ ocmwmysizm.com
 japteenx.com
 hentaiera.net
 toruftuiov.com
+trackingtrns.com
+mobtb.com
+ios-app-wizard.com
+hazelmarks.com
+hanime.tv
